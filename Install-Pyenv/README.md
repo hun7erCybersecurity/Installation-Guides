@@ -9,7 +9,7 @@
 Hello here you can find an ***installation guide*** to install `pyenv` and an example for the installation of `python v3.8.0` and the `dependencies` to solve the challenge `hashpump`.
 
 ---
-#### Build Dependencies
+### Build Dependencies
 <br />
 
 Install all dependencies with the following command:
@@ -20,7 +20,7 @@ libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl
 ```
 ---
 
-#### Using the pyenv-installer
+### Using the pyenv-installer
 <br />
 
 Curl's the `pyenv` installer and executing it with the following command:
@@ -39,7 +39,7 @@ eval "$(pyenv virtualenv-init -)"
 ```
 ---
 
-#### Using pyenv to Install Python
+### Using pyenv to Install Python
 <br />
 
 List all available `python` version's in `pyenv` from `3.6.0` - `3.8.0`:
@@ -65,7 +65,7 @@ pyenv global 3.8.0
 
 ---
 
-#### Control Dependencies
+### Control Dependencies
 <br />
 
 Install `g++` and `libssl-dev`  with the following command:
@@ -81,7 +81,7 @@ pip3 install hashpumpy
 ```
 ---
 
-#### Reset Global Setting
+### Reset Global Setting
 <br />
 
 Set `pyenv` back to `system` with the following command:
