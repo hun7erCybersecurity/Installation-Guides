@@ -4,6 +4,8 @@
 > hun7er Cybersecurity | Sep 26th, 2023
 ---
 
+[<img src='https://cdn.pixabay.com/photo/2011/08/14/18/08/penguin-8640__340.png' alt='LinuxLogo' height='120'>](https://github.com/hun7erCybersecurity)
+
 # Pyenv Installation guide
 
 Hello here you can find an ***installation guide*** to install `pyenv` and an example for the installation of `python v3.8.0` and the `dependencies` to solve the challenge `hashpump`.
